@@ -1,0 +1,13 @@
+# IDEs
+/.idea/
+/.settings/
+/.classpath/
+# Python
+/venv/
+__pycache__/
+# web2py
+cache/*
+errors/*
+*.w2p
+# andere
+*.log
